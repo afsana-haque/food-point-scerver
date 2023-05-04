@@ -178,4 +178,4 @@ app.get("/chefs/:id", (req, res) =>{
 
 app.listen(port, () => {
     console.log(`food point API is running on port: ${port}`);
-})
+});
